@@ -1,4 +1,4 @@
-Fungsi untuk memeriksa palindrom terdapat pada file "isPalindrome.js".
+Fungsi untuk memeriksa palindrom terdapat pada file <b>isPalindrome.js</b>.
 
 Untuk melakukan pemanggilan pada fungsi di terminal/command line/powershell anda dapat menggunakan perintah sbb:
 
@@ -13,4 +13,4 @@ Anda dapat melakukan testing pada fungsi isPalindrom dengan menjalankan unit tes
 node .\isPalindrome.test.js
 ```
 
-Jika anda ingin menambahkan test case pada unit test, anda dapat menambahkan isi array test_words pada file isPalindrom.test.js
+Jika anda ingin menambahkan test case pada unit test, anda dapat menambahkan isi array test_words pada file <b>isPalindrom.test.js</b>
